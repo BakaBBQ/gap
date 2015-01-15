@@ -19,7 +19,8 @@ optional arguments:
 ###Quick Explaination
 + wget:   client <= web server
 + gap:    web server => your server ||||wait until file finished downloading|||| => your computer
-useless unless you want to break through government regulations
+
+useless unless you want to break through government internet regulations
 
 ###Primary Initiative
 I have a VPN, and the VPN 60% is used for downloading blocked resources.
