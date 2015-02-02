@@ -8,7 +8,7 @@ usage: gap.py [-h] [-n filename] -p password server file_url
 retrieve a file from a server
 
 positional arguments:
-server       server in favor of user@host
+server       server in flavor of user@host
 file_url
 
 optional arguments:
@@ -40,6 +40,7 @@ And the script you see here is the automated python script version of it.
 
 ###Notables
 Currently only works on curl with sftp enabled
+
 Very dirty, sordid, or whatever you want to call in code, bunch of hacked up code
 
 
